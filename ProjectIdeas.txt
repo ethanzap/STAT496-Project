@@ -1,1 +1,1 @@
-
+Codenames - would require two llms simultaneously playing the word-based board game Codenames, measuring accuracy and the highest amount of words attached to one clue.
