@@ -1,5 +1,5 @@
 Codenames - would require two llms simultaneously playing the word-based board game Codenames, measuring accuracy and the highest amount of words attached to one clue.
 Bias within Bias - ask LLM to generate statistics of various demographics, test amount of bias when LLM is explicitly prompted to be aware of its biases.
 Butterfly effect - prompt LLM to start from a critical event in history but change the result of the event, and test how much the rest of history up to the present changes.
-Political bias in interaction with biased "human".
+Political bias in interaction with biased "human". One LLM emulate a biased human and explain/summarize a politically charged article and conversate with another LLM, which is measured on its political alignment at every stage of the conversation
 Recipe Convergence
