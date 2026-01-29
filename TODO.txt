@@ -1,3 +1,3 @@
-Find politically charged articles
-Decide on political compass test
+Find politically charged articles - Alex Pretti (BBC, CNN, NYT, FOX, AP, NYPOST)
+Decide on political compass test - 
 Run Proof of Concept
