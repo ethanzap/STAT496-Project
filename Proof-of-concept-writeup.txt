@@ -12,6 +12,6 @@ How might you automate largescale data collection?
 
 
 Python code to run prompts through a model
-- src/proof-of-concept.py
+- src/proof_of_concept.py
 Saved output from tests
-Code to read/analyze the output to ensure variety
+
