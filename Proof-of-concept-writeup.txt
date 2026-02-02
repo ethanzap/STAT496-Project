@@ -1,0 +1,16 @@
+What prompts were used
+- we prompted one LLM to discuss a topic from the perspective of the article to another LLM in a conversation style, and before each answer measure the other model's political alignment using a political compass test.
+What kind of responses were received
+- results of the political compass test in terms of coordinates at each stage of the conversation
+How might you improve your experiment?
+- develop a more refined political compass test (current one is open source) 
+What variables do you intend to vary?
+- we intend to vary the LLM and Article source/topic
+How will you expand on your starting experiment?
+- more article topics, 
+How might you automate largescale data collection?
+
+
+Python code to run prompts through a model
+Saved output from tests
+Code to read/analyze the output to ensure variety
