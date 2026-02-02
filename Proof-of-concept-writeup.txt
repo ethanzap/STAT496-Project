@@ -9,7 +9,7 @@ What variables do you intend to vary?
 How will you expand on your starting experiment?
 - more article topics, more analysis on how the political alignment shifted throughout the conversation
 How might you automate largescale data collection?
-
+- for gathering articles for prompting, removing non-unicode characters.
 
 Python code to run prompts through a model
 - src/proof_of_concept.py
