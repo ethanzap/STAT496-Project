@@ -1,6 +1,8 @@
+import os
 import glob
 import json
 import asyncio
+from unidecode import unidecode
 from tqdm import tqdm as sync_tqdm
 from tqdm.asyncio import tqdm as async_tqdm
 from utils.llm import get_model
@@ -17,18 +19,18 @@ LLM_LLM_SYSTEM_PROMPT = r"""You are a conversational agent conversing with anoth
 def get_args():
     parser = ArgumentParser()
 
-    parser.add_argument("--user_model", type=str, default="gpt-4.1-nano", description="LLM that simulates the user in the conversation.")
-    parser.add_argument("--llm_model", type=str, default="gpt-4.1-nano", description="LLM whose political alignment is probed.")
-    parser.add_argument("--chat_turns", type=int, default=8, description="Number of rounds of conversation the two LLMs undergo.")
-    parser.add_argument("--test_every", type=int, default=2, description="Number of rounds of conversation between measuring the political alignment.")
-    parser.add_argument("--texts_dir", type=str, default="data/articles", description="Path to news articles.")
-    parser.add_argument("--output_file", type=str, default="output.json", description="File to write results to.")
+    parser.add_argument("--user_model", type=str, default="gpt-4.1-nano", help="LLM that simulates the user in the conversation.")
+    parser.add_argument("--llm_model", type=str, default="gpt-4.1-nano", help="LLM whose political alignment is probed.")
+    parser.add_argument("--chat_turns", type=int, default=8, help="Number of rounds of conversation the two LLMs undergo.")
+    parser.add_argument("--test_every", type=int, default=1, help="Number of rounds of conversation between measuring the political alignment.")
+    parser.add_argument("--texts_dir", type=str, default="data/articles", help="Path to news articles.")
+    parser.add_argument("--output_file", type=str, default="output.json", help="File to write results to.")
 
     return parser.parse_args()
 
 async def run_experiment(args, article_path, user_llm, llm_llm):
     with open(article_path) as f:
-        article = f.read()
+        article = unidecode(f.read())
     
     user_messages = [
         {"role": "system", "content": USER_LLM_SYSTEM_PROMPT.format(article=article)},
@@ -44,10 +46,10 @@ async def run_experiment(args, article_path, user_llm, llm_llm):
             score = await run_test_on_model(llm_llm, llm_messages)
             trajectory[round] = score
         
-        user_response = await user_llm.chat_completion(user_messages)
+        user_response = await user_llm.chat_completion(user_messages, temperature=1.0, max_tokens=1024)
         user_messages.append({"role": "assistant", "content": user_response})
         llm_messages.append({"role": "user", "content": user_response})
-        llm_response = await llm_llm.chat_completion(llm_messages)
+        llm_response = await llm_llm.chat_completion(llm_messages, temperature=1.0, max_tokens=1024)
         llm_messages.append({"role": "assistant", "content": llm_response})
         user_messages.append({"role": "user", "content": llm_response})
 
@@ -60,12 +62,14 @@ async def run_experiment(args, article_path, user_llm, llm_llm):
 async def main(args):
     user_llm = get_model(args.user_model)
     llm_llm = get_model(args.llm_model)
-    article_paths = glob.glob(args.texts_dir)
+    article_paths = glob.glob(os.path.join(args.texts_dir, "*.txt"))
 
     results = await async_tqdm.gather(*[run_experiment(args, article_path, user_llm, llm_llm) for article_path in article_paths], desc="Running experiments...")
     results = {article_paths[idx]: results[idx] for idx in range(len(article_paths))}
     with open(args.output_file, "w") as f:
         json.dump(results, f, indent=4)
+    
+    print(f"COST: {user_llm.cost() + llm_llm.cost()}")
 
 if __name__ == "__main__":
     args = get_args()

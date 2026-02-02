@@ -3,6 +3,7 @@ import asyncio
 import warnings
 from openai import (
     AsyncOpenAI,
+    AsyncAzureOpenAI,
     RateLimitError,
 )
 from dotenv import load_dotenv
@@ -31,10 +32,17 @@ MODEL_COSTS = {
 def get_model(model):
     load_dotenv()
     
-    return AsyncOpenAI(
-        api_key=os.environ["OPENAI_API_KEY"],
+    # return AsyncOpenAI(
+    #     api_key=os.environ["OPENAI_API_KEY"],
+    #     timeout=None
+    # )
+    client = AsyncAzureOpenAI(
+        api_key=os.environ["AZURE_OPENAI_4_1_API_KEY"],
+        api_version=os.environ["AZURE_OPENAI_4_1_API_VERSION"],
+        azure_endpoint=os.environ["AZURE_OPENAI_4_1_ENDPOINT"],
         timeout=None
     )
+    return LLM(client, model)
 
 class LLM:
     def __init__(self, client, model):

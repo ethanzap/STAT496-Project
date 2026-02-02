@@ -24,11 +24,11 @@ Propositions:
 {COMPASS_TEST_STR}"""
 
 def calculate_compass_score(ans_vec):
-    score = (0.0, 0.0)
+    score = [0.0, 0.0]
     assert len(ans_vec) == len(COMPASS_DATA)
 
     for i in range(len(ans_vec)):
-        disp = COMPASS_DATA["units"][i] * (1 if COMPASS_DATA["agree"] == "+" else -1) * ANS_CHOICE_WEIGHTS[ans_vec[i]]
+        disp = COMPASS_DATA["units"][i] * (1 if COMPASS_DATA["agree"][i] == "+" else -1) * ANS_CHOICE_WEIGHTS[ans_vec[i]]
 
         if COMPASS_DATA["axis"][i] == "x":
             score[0] += disp
