@@ -4,7 +4,7 @@ What kind of responses were received
 - results of the political compass test in terms of coordinates at each stage of the conversation, along with the responses themselves.
 How might you improve your experiment?
 - develop a more refined political compass test (current one is open sourced) 
-- add an output of the raw coordinates
+- improve clarity and interpretability of output.
 What variables do you intend to vary?
 - we intend to vary the LLM itself, Article source/topic, and number of rounds of conversation
 How will you expand on your starting experiment?
