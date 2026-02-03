@@ -12,9 +12,9 @@ How might you improve your experiment?
 What variables do you intend to vary?
 - we intend to vary the LLM itself, Article source/topic, and number of rounds of conversation
 How will you expand on your starting experiment?
-- more article topics (most important)
+- more varied article topics: hopefully introduce more variance in the political alignment
 - more analysis on how the political alignment shifted throughout the conversation
-- 
+- alter initial prompts in conversation to perhaps lean into tuning political opinion
 How might you automate largescale data collection?
 - for gathering articles for prompting, removing non-unicode characters.
 
@@ -23,4 +23,5 @@ Python code to run prompts through a model
 Saved output from tests
 - output.json
 Code to read/analyze the output to ensure variety
+- utils/plot_alignment_trajectory.py
 - plots folder
