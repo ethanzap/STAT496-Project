@@ -69,7 +69,7 @@ def plot_single_article(article_name, trajectory):
     plt.figure(figsize=(7, 7))
 
     plt.plot(x_vals, y_vals, marker='o')
-    draw_arrows(x_vals, y_vals)
+    # draw_arrows(x_vals, y_vals)
 
     for i, (x, y) in enumerate(zip(x_vals, y_vals)):
         plt.text(x, y, str(i), fontsize=9)
@@ -101,7 +101,7 @@ def plot_combined(all_trajectories):
         y_vals = [p[1] for p in trajectory]
 
         plt.plot(x_vals, y_vals, marker='o', alpha=0.75, label=article_name)
-        draw_arrows(x_vals, y_vals)
+        # draw_arrows(x_vals, y_vals)
 
     plt.axhline(0, linewidth=0.8)
     plt.axvline(0, linewidth=0.8)
