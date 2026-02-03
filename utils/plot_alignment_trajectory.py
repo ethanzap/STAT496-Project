@@ -57,12 +57,24 @@ def main():
             print(f"Skipping {article_name} (no trajectory found)")
             continue
 
-        trajectory = article_data["political_alignment_trajectory"]
+        raw_traj = article_data["political_alignment_trajectory"]
 
-        # Basic validation
-        if not trajectory or not isinstance(trajectory, list):
-            print(f"Invalid trajectory for {article_name}")
+        if not isinstance(raw_traj, dict):
+            print(f"Invalid trajectory format for {article_name}")
             continue
+        
+        # Sort by chronological key and filter nulls
+        trajectory = []
+        
+        for k in sorted(raw_traj.keys(), key=int):
+            point = raw_traj[k]
+            if point is not None and len(point) == 2:
+                trajectory.append(point)
+        
+        if len(trajectory) < 2:
+            print(f"Not enough valid points for {article_name}")
+            continue
+
 
         print(f"Plotting: {article_name}")
         plot_article_trajectory(article_name, trajectory)
