@@ -1,3 +1,4 @@
-Find politically charged articles - Alex Pretti (BBC, CNN, NYT, FOX, AP, NYPOST)
-Decide on political compass test - 
-Run Proof of Concept
+take new articles and run prompts possibly with gemini, grok, openAI combinations
+alter prompts to encourage more bias in explainer LLM
+Write paragraph for update on experimental results
+First Draft of Introduction and Experimental Design
