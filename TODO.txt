@@ -2,3 +2,11 @@ take new articles and run prompts possibly with gemini, grok, openAI combination
 alter prompts to encourage more bias in explainer LLM
 Write paragraph for update on experimental results
 First Draft of Introduction and Experimental Design
+
+Khamenei articles:
+https://nypost.com/2026/02/28/world-news/iranian-supreme-leader-ali-khamenei-president-targeted-in-us-attack-on-iran-as-first-photos-of-destroyed-compound-emerge/
+https://www.bbc.com/news/articles/c3gdnpjvj4ko
+https://apnews.com/article/iran-supreme-leader-ayatollah-ali-khamenei-dead-5b13b69b708c4ed38e8f95f5fb41a597
+https://www.cnn.com/2026/02/28/middleeast/ayatollah-khamenei-iran-killed-airstrike-intl-latam
+https://www.foxnews.com/world/irans-supreme-leader-ali-khamenei-dead-after-idf-strike-hits-tehran-compound-israeli-source-confirms?msockid=32570ede9f43691200a418729e7368f9
+https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html
