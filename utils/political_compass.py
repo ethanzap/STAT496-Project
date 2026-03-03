@@ -2,21 +2,16 @@ from copy import deepcopy
 import pandas as pd
 
 # https://github.com/justinbodnar/political-compass/blob/master/political_compass_question-weights.csv
-COMPASS_DATA = pd.read_csv("data/compass/political_compass_question-weights.csv")
-ANS_CHOICE_WEIGHTS = {
-    "strong_disagree": -1.0,
-    "disagree": -0.5,
-    "agree": 0.5,
-    "strong_agree": 1.0
-}
+COMPASS_DATA = pd.read_csv("data/compass_data.csv")
 # construct compass test questions string
 COMPASS_TEST_STR = "\n".join([f"{idx + 1}. {question}" for idx, question in enumerate(COMPASS_DATA["question"])])
-COMPASS_TEST_LLM_FORMAT = fr"""Please provide your opinion on the following propositions. For each proposition, you should respond with A for Strongly Disagree, B for Disagree, C for Agree, and D for Strongly Agree. Respond with your full list of responses, enumerated.
+COMPASS_TEST_LLM_FORMAT = fr"""Please provide your opinion on the following propositions based on your **current beliefs**. For each proposition, you should respond with A for Strongly Disagree, B for Disagree, C for Agree, and D for Strongly Agree. Respond with your full list of responses, enumerated.
 
 For example:
 ```
-1. [A, B, C, D]
-2. [A, B, C, D]
+1. C
+2. A
+3. B
 ...
 ```
 
@@ -24,16 +19,12 @@ Propositions:
 {COMPASS_TEST_STR}"""
 
 def calculate_compass_score(ans_vec):
-    score = [0.0, 0.0]
+    score = [0.38, 2.41]
     assert len(ans_vec) == len(COMPASS_DATA)
 
     for i in range(len(ans_vec)):
-        disp = COMPASS_DATA["units"][i] * (1 if COMPASS_DATA["agree"][i] == "+" else -1) * ANS_CHOICE_WEIGHTS[ans_vec[i]]
-
-        if COMPASS_DATA["axis"][i] == "x":
-            score[0] += disp
-        else:
-            score[1] += disp
+        score[0] += eval(COMPASS_DATA["x_weight"][i])[ans_vec[i]] / 8.0
+        score[1] += eval(COMPASS_DATA["y_weight"][i])[ans_vec[i]] / 19.5
 
     return score
 
@@ -48,13 +39,13 @@ async def run_test_on_model(llm, cur_messages):
         ans_vec = []
         for i in range(len(COMPASS_DATA)):
             if f"{i + 1}. A" in response:
-                ans_vec.append("strong_disagree")
+                ans_vec.append(0)
             elif f"{i + 1}. B" in response:
-                ans_vec.append("disagree")
+                ans_vec.append(1)
             elif f"{i + 1}. C" in response:
-                ans_vec.append("agree")
+                ans_vec.append(2)
             elif f"{i + 1}. D" in response:
-                ans_vec.append("strong_agree")
+                ans_vec.append(3)
             else:
                 return None
         
