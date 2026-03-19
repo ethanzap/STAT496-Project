@@ -1,0 +1,29 @@
+President Trump said Friday that he has directed all federal agencies to "immediately cease" working with Anthropic, blasting the AI company's leadership as "leftwing nut jobs."
+
+The scathing announcement from Trump brought an abrupt end to a major dispute between Anthropic and the Pentagon, which had given the company until 5:01 p.m. Eastern Time Friday to remove safeguards on how its Claude chatbot could be used by the US military.
+
+"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War, and force them to obey their Terms of Service instead of our Constitution," Trump wrote in a Truth Social post. "Their selfishness is putting AMERICAN LIVES at risk, our Troops in danger, and our National Security in JEOPARDY."
+
+"Therefore, I am directing EVERY Federal Agency in the United States Government to IMMEDIATELY CEASE all use of Anthropic's technology," the president continued. "We don't need it, we don't want it, and will not do business with them again!"
+
+The Pentagon declined to comment. Anthropic representatives did not immediately return a request for comment.
+
+The president said there "will be a six-month phase-out period" for the Pentagon and other agencies that are using Anthropic's models. The company signed a $200 million contract with the Pentagon just last July.
+
+Trump said he would use the "Full Power of the Presidency to make them comply, with major civil and criminal consequences to follow" if Anthropic was uncooperative during the transition period.
+
+Anthropic and its CEO Dario Amodei have objected to any use of their technology that would enable mass surveillance of Americans or powering weapons capable of firing without human oversight. Claude is currently the only AI model used by the US military in classified situations.
+
+As the deadline to comply with the Pentagon's request loomed, Amodei said Thursday that the company "cannot in good conscience accede" to the Pentagon's demands.
+
+The Pentagon, meanwhile, has said the dispute was never about Anthropic's "red lines" and that the US military has only given out lawful orders when using AI.
+
+Elon Musk's Grok recently received approval to be used in classified settings, while a senior Pentagon official said OpenAI and Google were "close" to getting permission.
+
+OpenAI's Sam Altman said Thursday that the company shared the same red lines as Anthropic, but suggested his firm could reach common ground with the Pentagon on how models should be used.
+
+The feud between the two sides recently escalated in January after Claude was used in the operation to arrest Venezuela's Nicolás Maduro.
+
+During a meeting with Hegseth earlier this week, Amodei denied that anyone at Anthropic had complained to Palantir.
+
+The Post first reported in November that Anthropic's ties to the cultlike Effective Altruism movement and Democratic megadonors like LinkedIn cofounder Reid Hoffman were on the Trump administration's radar and were complicating its efforts to work with the government.

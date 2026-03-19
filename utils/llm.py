@@ -15,33 +15,31 @@ MAX_RETRY = 8
 TIMEOUT = 5.0
 
 MODELS = [
-    "gpt-4.1"
-    "gpt-4.1-mini",
-    "gpt-4.1-nano",
-    "gpt-4o",
-    "gpt-4o-mini"
+    "gpt-5-mini",
+    "gemma",
+    "llama"
 ]
 MODEL_COSTS = {
-    "gpt-4.1": (2.00, 8.00),
-    "gpt-4.1-mini": (0.40, 1.60),
-    "gpt-4.1-nano": (0.10, 0.40),
-    "gpt-4o": (2.50, 10.00),
-    "gpt-4o-mini": (0.15, 0.60)
+    "gpt-5-mini": (0.25, 2.00),
+    "llama": (0.0, 0.0),
+    "gemma": (0.0, 0.0)
 }
 
-def get_model(model):
+def get_model(model, gpu_id):
     load_dotenv()
     
-    # return AsyncOpenAI(
-    #     api_key=os.environ["OPENAI_API_KEY"],
-    #     timeout=None
-    # )
-    client = AsyncAzureOpenAI(
-        api_key=os.environ["AZURE_OPENAI_4_1_API_KEY"],
-        api_version=os.environ["AZURE_OPENAI_4_1_API_VERSION"],
-        azure_endpoint=os.environ["AZURE_OPENAI_4_1_ENDPOINT"],
-        timeout=None
-    )
+    if model == "llama":
+        client = AsyncOpenAI(base_url="http://localhost:"+str(os.environ["LLAMA_PORT"])+"/v1", api_key="", timeout=None)
+    elif model == "gemma":
+        client= AsyncOpenAI(base_url="http://localhost:"+str(os.environ["GEMMA_PORT"])+"/v1", api_key="", timeout=None)
+    elif model == "gpt-5-mini":
+        client = AsyncOpenAI(
+            api_key=os.environ["OPENAI_API_KEY"],
+            timeout=None,
+        )
+    else:
+        raise Exception()
+
     return LLM(client, model)
 
 class LLM:
@@ -52,34 +50,44 @@ class LLM:
         self.completion_tokens = 0
         self.semaphore = asyncio.Semaphore(MAX_CONCURRENT)
 
-    async def chat_completion(self, messages, *args, **kwargs):
+    async def chat_completion(self, messages, temperature=0.0, max_tokens=1024):
         await self.semaphore.acquire()
 
         try:
             for _ in range(MAX_RETRY):
                 try:
-                    response = await self.client.chat.completions.create(
-                        model=self.model,
-                        messages=messages,
-                        *args,
-                        **kwargs
-                    )
+                    if self.model == "gpt-5-mini":
+                        response = await self.client.chat.completions.create(
+                            model=self.model,
+                            messages=messages,
+                            max_completion_tokens=max_tokens,
+                            reasoning_effort="minimal"
+                        )
+                    elif self.model == "llama" or self.model == "gemma":
+                        response = await self.client.chat.completions.create(
+                            model=self.model,
+                            messages=messages,
+                            max_tokens=max_tokens,
+                            temperature=temperature
+                        )
+                    else:
+                        raise Exception()
                 except RateLimitError:
                     await asyncio.sleep(TIMEOUT)
                     continue
                 except Exception as e:
                     warnings.warn(repr(e))
-                    return None
+                    return ""
                 if len(response.choices) == 0 or response.choices[0].message.content is None:
                     warnings.warn("Invalid output from chat_completion")
-                    return None
+                    return ""
                 else:
                     self.prompt_tokens += response.usage.prompt_tokens
                     self.completion_tokens += response.usage.completion_tokens
                     return response.choices[0].message.content
         except Exception as e:
             warnings.warn(repr(e))
-            return None
+            return ""
         finally:
             self.semaphore.release()
     

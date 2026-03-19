@@ -1,0 +1,6 @@
+vllm
+unidecode
+python-dotenv
+tqdm
+argparse
+matplotlib

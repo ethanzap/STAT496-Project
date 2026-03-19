@@ -1,0 +1,1944 @@
+Running experiments...:   0%|          | 0/6 [00:00<?, ?it/s]
+  0%|          | 0/8 [00:00<?, ?it/s][A
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A
+
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A[A
+
+
+
+ 12%|█▎        | 1/8 [00:13<01:34, 13.47s/it][A[A[A[A
+
+
+ 12%|█▎        | 1/8 [00:13<01:36, 13.83s/it][A[A[A
+
+ 12%|█▎        | 1/8 [00:15<01:48, 15.48s/it][A[A
+
+
+
+
+ 12%|█▎        | 1/8 [00:15<01:48, 15.51s/it][A[A[A[A[A
+
+
+
+
+
+ 12%|█▎        | 1/8 [00:18<02:10, 18.58s/it][A[A[A[A[A[A
+ 12%|█▎        | 1/8 [00:19<02:13, 19.07s/it][A
+
+
+ 25%|██▌       | 2/8 [00:32<01:39, 16.56s/it][A[A[A
+
+
+
+
+ 25%|██▌       | 2/8 [00:34<01:46, 17.81s/it][A[A[A[A[A
+
+
+
+ 25%|██▌       | 2/8 [00:41<02:13, 22.21s/it][A[A[A[A
+
+ 25%|██▌       | 2/8 [00:46<02:27, 24.50s/it][A[A
+
+
+
+
+
+ 25%|██▌       | 2/8 [00:50<02:37, 26.33s/it][A[A[A[A[A[A
+
+
+ 38%|███▊      | 3/8 [00:50<01:27, 17.53s/it][A[A[A
+ 25%|██▌       | 2/8 [00:52<02:44, 27.35s/it][A
+
+
+
+
+ 38%|███▊      | 3/8 [00:56<01:36, 19.31s/it][A[A[A[A[A
+ 38%|███▊      | 3/8 [01:07<01:50, 22.07s/it][A
+
+
+
+
+ 50%|█████     | 4/8 [01:08<01:05, 16.46s/it][A[A[A[A[A
+
+
+ 50%|█████     | 4/8 [01:11<01:15, 18.75s/it][A[A[A
+
+
+
+ 38%|███▊      | 3/8 [01:16<02:19, 27.97s/it][A[A[A[A
+ 50%|█████     | 4/8 [01:23<01:17, 19.39s/it][A
+
+
+
+
+ 62%|██████▎   | 5/8 [01:23<00:48, 16.01s/it][A[A[A[A[A
+
+
+
+
+
+ 38%|███▊      | 3/8 [01:23<02:27, 29.52s/it][A[A[A[A[A[A
+
+ 38%|███▊      | 3/8 [01:26<02:37, 31.59s/it][A[A
+ 62%|██████▎   | 5/8 [01:38<00:53, 17.74s/it][A
+
+
+
+
+ 75%|███████▌  | 6/8 [01:40<00:32, 16.47s/it][A[A[A[A[A
+
+
+
+ 50%|█████     | 4/8 [01:43<01:50, 27.53s/it][A[A[A[A
+
+
+ 62%|██████▎   | 5/8 [01:48<01:16, 25.47s/it][A[A[A
+
+ 50%|█████     | 4/8 [01:56<02:03, 30.86s/it][A[A
+
+
+
+
+ 88%|████████▊ | 7/8 [01:57<00:16, 16.42s/it][A[A[A[A[A
+ 75%|███████▌  | 6/8 [01:57<00:36, 18.29s/it][A
+
+
+
+ 62%|██████▎   | 5/8 [02:04<01:15, 25.12s/it][A[A[A[A
+
+
+
+
+
+ 50%|█████     | 4/8 [02:04<02:15, 33.94s/it][A[A[A[A[A[A
+
+
+ 75%|███████▌  | 6/8 [02:08<00:47, 23.56s/it][A[A[A
+
+
+
+
+100%|██████████| 8/8 [02:12<00:00, 15.98s/it][A[A[A[A[A100%|██████████| 8/8 [02:12<00:00, 16.51s/it]
+Running experiments...:  17%|█▋        | 1/6 [02:12<11:00, 132.05s/it]
+ 88%|████████▊ | 7/8 [02:14<00:17, 17.78s/it][A
+
+ 62%|██████▎   | 5/8 [02:18<01:23, 27.73s/it][A[A
+100%|██████████| 8/8 [02:26<00:00, 16.17s/it][A100%|██████████| 8/8 [02:26<00:00, 18.36s/it]
+Running experiments...:  33%|███▎      | 2/6 [02:26<04:12, 63.12s/it] 
+
+
+
+ 75%|███████▌  | 6/8 [02:30<00:50, 25.33s/it][A[A[A[A
+
+
+ 88%|████████▊ | 7/8 [02:35<00:24, 24.53s/it][A[A[A
+
+
+100%|██████████| 8/8 [02:47<00:00, 20.48s/it][A[A[A100%|██████████| 8/8 [02:47<00:00, 20.90s/it]
+Running experiments...:  50%|█████     | 3/6 [02:47<02:10, 43.55s/it]
+
+
+
+
+
+ 62%|██████▎   | 5/8 [02:52<01:57, 39.09s/it][A[A[A[A[A[A
+
+
+
+ 88%|████████▊ | 7/8 [03:02<00:27, 27.72s/it][A[A[A[A
+
+ 75%|███████▌  | 6/8 [03:09<01:11, 35.72s/it][A[A
+
+
+
+
+
+ 75%|███████▌  | 6/8 [03:16<01:07, 33.84s/it][A[A[A[A[A[A
+
+
+
+100%|██████████| 8/8 [03:32<00:00, 28.31s/it][A[A[A[A100%|██████████| 8/8 [03:32<00:00, 26.53s/it]
+Running experiments...:  67%|██████▋   | 4/6 [03:32<01:28, 44.16s/it]
+
+
+
+
+
+ 88%|████████▊ | 7/8 [03:44<00:31, 31.95s/it][A[A[A[A[A[A
+
+ 88%|████████▊ | 7/8 [03:50<00:37, 37.50s/it][A[A
+
+
+
+
+
+100%|██████████| 8/8 [04:12<00:00, 30.91s/it][A[A[A[A[A[A100%|██████████| 8/8 [04:12<00:00, 31.62s/it]
+Running experiments...:  83%|████████▎ | 5/6 [04:12<00:42, 42.91s/it]
+
+100%|██████████| 8/8 [04:32<00:00, 38.97s/it][A[A100%|██████████| 8/8 [04:32<00:00, 34.09s/it]
+Running experiments...: 100%|██████████| 6/6 [04:32<00:00, 35.04s/it]Running experiments...: 100%|██████████| 6/6 [04:32<00:00, 45.46s/it]
+COST: 0.539889
+sys:1: ResourceWarning: unclosed <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('10.210.72.129', 37302), raddr=('172.66.0.243', 443)>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=10>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=7>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+Saved: plots_5_5_c/data_control_articles_AP-control.txt.png
+Saved: plots_5_5_c/data_control_articles_BBC-control.txt.png
+Saved: plots_5_5_c/data_control_articles_CNN-control.txt.png
+Saved: plots_5_5_c/data_control_articles_FOX-control.txt.png
+Saved: plots_5_5_c/data_control_articles_NYPOST-control.txt.png
+Saved: plots_5_5_c/data_control_articles_NYT-control.txt.png
+Saved: plots_5_5_c/all_articles_combined.png
+Running experiments...:   0%|          | 0/6 [00:00<?, ?it/s]
+  0%|          | 0/8 [00:00<?, ?it/s][A
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A
+
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A[A
+
+
+
+ 12%|█▎        | 1/8 [00:16<01:52, 16.05s/it][A[A[A[A
+
+
+
+
+ 12%|█▎        | 1/8 [00:17<02:05, 17.92s/it][A[A[A[A[A
+
+
+ 12%|█▎        | 1/8 [00:21<02:27, 21.13s/it][A[A[A
+ 12%|█▎        | 1/8 [00:21<02:31, 21.67s/it][A
+
+ 12%|█▎        | 1/8 [00:24<02:48, 24.01s/it][A[A
+
+
+
+
+
+ 12%|█▎        | 1/8 [00:27<03:14, 27.79s/it][A[A[A[A[A[A
+
+
+
+ 25%|██▌       | 2/8 [00:33<01:42, 17.11s/it][A[A[A[A
+
+
+
+
+ 25%|██▌       | 2/8 [00:40<02:02, 20.45s/it][A[A[A[A[A
+
+
+ 25%|██▌       | 2/8 [00:41<02:03, 20.51s/it][A[A[A
+
+ 25%|██▌       | 2/8 [00:47<02:20, 23.47s/it][A[A
+ 25%|██▌       | 2/8 [00:52<02:41, 26.86s/it][A
+
+
+
+ 38%|███▊      | 3/8 [00:53<01:31, 18.22s/it][A[A[A[A
+
+
+
+
+
+ 25%|██▌       | 2/8 [00:54<02:41, 26.99s/it][A[A[A[A[A[A
+
+
+ 38%|███▊      | 3/8 [01:02<01:44, 20.90s/it][A[A[A
+
+
+
+
+ 38%|███▊      | 3/8 [01:05<01:52, 22.51s/it][A[A[A[A[A
+
+ 38%|███▊      | 3/8 [01:12<02:01, 24.40s/it][A[A
+
+
+
+ 50%|█████     | 4/8 [01:13<01:15, 18.94s/it][A[A[A[A
+
+
+ 50%|█████     | 4/8 [01:24<01:25, 21.42s/it][A[A[A
+
+
+
+
+ 50%|█████     | 4/8 [01:25<01:26, 21.68s/it][A[A[A[A[A
+ 38%|███▊      | 3/8 [01:26<02:32, 30.45s/it][A
+
+
+
+
+
+ 38%|███▊      | 3/8 [01:29<02:34, 30.94s/it][A[A[A[A[A[A
+
+
+
+ 62%|██████▎   | 5/8 [01:36<01:01, 20.46s/it][A[A[A[A
+
+ 50%|█████     | 4/8 [01:38<01:39, 24.89s/it][A[A
+
+
+
+
+ 62%|██████▎   | 5/8 [01:47<01:04, 21.66s/it][A[A[A[A[A
+
+
+ 62%|██████▎   | 5/8 [01:49<01:07, 22.47s/it][A[A[A
+ 50%|█████     | 4/8 [01:53<01:56, 29.02s/it][A
+
+
+
+ 75%|███████▌  | 6/8 [01:58<00:42, 21.10s/it][A[A[A[A
+
+ 62%|██████▎   | 5/8 [02:04<01:16, 25.40s/it][A[A
+
+
+
+
+
+ 50%|█████     | 4/8 [02:06<02:12, 33.12s/it][A[A[A[A[A[A
+
+
+
+
+ 75%|███████▌  | 6/8 [02:06<00:41, 20.82s/it][A[A[A[A[A
+
+
+ 75%|███████▌  | 6/8 [02:16<00:47, 23.99s/it][A[A[A
+
+ 75%|███████▌  | 6/8 [02:23<00:46, 23.23s/it][A[A
+ 62%|██████▎   | 5/8 [02:29<01:34, 31.49s/it][A
+
+
+
+
+ 88%|████████▊ | 7/8 [02:29<00:21, 21.64s/it][A[A[A[A[A
+
+
+
+ 88%|████████▊ | 7/8 [02:30<00:24, 24.62s/it][A[A[A[A
+
+ 88%|████████▊ | 7/8 [02:40<00:21, 21.33s/it][A[A
+
+
+ 88%|████████▊ | 7/8 [02:43<00:25, 25.26s/it][A[A[A
+ 75%|███████▌  | 6/8 [02:50<00:55, 27.83s/it][A
+
+
+
+
+
+ 62%|██████▎   | 5/8 [02:51<01:52, 37.38s/it][A[A[A[A[A[A
+
+
+
+
+100%|██████████| 8/8 [02:55<00:00, 22.93s/it][A[A[A[A[A100%|██████████| 8/8 [02:55<00:00, 21.92s/it]
+Running experiments...:  17%|█▋        | 1/6 [02:55<14:36, 175.36s/it]
+
+
+
+100%|██████████| 8/8 [02:56<00:00, 24.95s/it][A[A[A[A100%|██████████| 8/8 [02:56<00:00, 22.07s/it]
+Running experiments...:  33%|███▎      | 2/6 [02:56<04:51, 72.90s/it] 
+
+100%|██████████| 8/8 [03:02<00:00, 21.54s/it][A[A100%|██████████| 8/8 [03:02<00:00, 22.87s/it]
+Running experiments...:  50%|█████     | 3/6 [03:03<02:07, 42.56s/it]
+ 88%|████████▊ | 7/8 [03:07<00:24, 24.49s/it][A
+
+
+100%|██████████| 8/8 [03:10<00:00, 25.69s/it][A[A[A100%|██████████| 8/8 [03:10<00:00, 23.82s/it]
+Running experiments...:  67%|██████▋   | 4/6 [03:10<00:57, 28.74s/it]
+
+
+
+
+
+ 75%|███████▌  | 6/8 [03:19<01:08, 34.33s/it][A[A[A[A[A[A
+100%|██████████| 8/8 [03:21<00:00, 20.92s/it][A100%|██████████| 8/8 [03:21<00:00, 25.15s/it]
+Running experiments...:  83%|████████▎ | 5/6 [03:21<00:22, 22.22s/it]
+
+
+
+
+
+ 88%|████████▊ | 7/8 [04:00<00:36, 36.39s/it][A[A[A[A[A[A
+
+
+
+
+
+100%|██████████| 8/8 [04:24<00:00, 32.50s/it][A[A[A[A[A[A100%|██████████| 8/8 [04:24<00:00, 33.06s/it]
+Running experiments...: 100%|██████████| 6/6 [04:24<00:00, 36.18s/it]Running experiments...: 100%|██████████| 6/6 [04:24<00:00, 44.08s/it]
+COST: 0.10388425
+sys:1: ResourceWarning: unclosed <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('10.210.72.129', 58698), raddr=('172.66.0.243', 443)>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=9>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+sys:1: ResourceWarning: unclosed <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 58672), raddr=('127.0.0.1', 8001)>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=6>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+Saved: plots_5_g_c/data_control_articles_AP-control.txt.png
+Saved: plots_5_g_c/data_control_articles_BBC-control.txt.png
+Saved: plots_5_g_c/data_control_articles_CNN-control.txt.png
+Saved: plots_5_g_c/data_control_articles_FOX-control.txt.png
+Saved: plots_5_g_c/data_control_articles_NYPOST-control.txt.png
+Saved: plots_5_g_c/data_control_articles_NYT-control.txt.png
+Saved: plots_5_g_c/all_articles_combined.png
+Running experiments...:   0%|          | 0/6 [00:00<?, ?it/s]
+  0%|          | 0/8 [00:00<?, ?it/s][A
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A
+
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A[A
+
+
+
+ 12%|█▎        | 1/8 [00:08<00:58,  8.40s/it][A[A[A[A
+
+
+
+
+ 12%|█▎        | 1/8 [00:08<01:02,  8.88s/it][A[A[A[A[A
+ 12%|█▎        | 1/8 [00:09<01:09,  9.95s/it][A
+
+
+ 12%|█▎        | 1/8 [00:10<01:10, 10.09s/it][A[A[A
+
+
+
+
+
+ 12%|█▎        | 1/8 [00:13<01:32, 13.15s/it][A[A[A[A[A[A
+
+ 12%|█▎        | 1/8 [00:14<01:38, 14.04s/it][A[A
+
+
+
+ 25%|██▌       | 2/8 [00:19<00:59,  9.85s/it][A[A[A[A
+ 25%|██▌       | 2/8 [00:22<01:07, 11.30s/it][A
+
+
+
+
+ 25%|██▌       | 2/8 [00:23<01:11, 11.99s/it][A[A[A[A[A
+
+
+ 25%|██▌       | 2/8 [00:25<01:19, 13.27s/it][A[A[A
+
+
+
+ 38%|███▊      | 3/8 [00:30<00:53, 10.64s/it][A[A[A[A
+
+ 25%|██▌       | 2/8 [00:31<01:36, 16.15s/it][A[A
+
+
+
+
+
+ 25%|██▌       | 2/8 [00:32<01:39, 16.61s/it][A[A[A[A[A[A
+ 38%|███▊      | 3/8 [00:35<01:00, 12.01s/it][A
+
+
+ 38%|███▊      | 3/8 [00:38<01:05, 13.18s/it][A[A[A
+
+
+
+
+ 38%|███▊      | 3/8 [00:40<01:11, 14.28s/it][A[A[A[A[A
+
+
+
+ 50%|█████     | 4/8 [00:44<00:47, 11.93s/it][A[A[A[A
+ 50%|█████     | 4/8 [00:48<00:50, 12.60s/it][A
+
+ 38%|███▊      | 3/8 [00:50<01:27, 17.56s/it][A[A
+
+
+ 50%|█████     | 4/8 [00:51<00:52, 13.18s/it][A[A[A
+
+
+
+
+
+ 38%|███▊      | 3/8 [00:54<01:36, 19.35s/it][A[A[A[A[A[A
+
+
+
+
+ 50%|█████     | 4/8 [01:00<01:07, 16.84s/it][A[A[A[A[A
+
+
+
+ 62%|██████▎   | 5/8 [01:02<00:41, 13.90s/it][A[A[A[A
+ 62%|██████▎   | 5/8 [01:02<00:39, 13.26s/it][A
+
+
+ 62%|██████▎   | 5/8 [01:06<00:40, 13.57s/it][A[A[A
+
+ 50%|█████     | 4/8 [01:08<01:10, 17.62s/it][A[A
+
+
+
+ 75%|███████▌  | 6/8 [01:17<00:28, 14.38s/it][A[A[A[A
+
+
+
+
+
+ 50%|█████     | 4/8 [01:17<01:22, 20.67s/it][A[A[A[A[A[A
+
+
+
+
+ 62%|██████▎   | 5/8 [01:18<00:51, 17.12s/it][A[A[A[A[A
+ 75%|███████▌  | 6/8 [01:18<00:28, 14.11s/it][A
+
+
+ 75%|███████▌  | 6/8 [01:22<00:29, 14.54s/it][A[A[A
+
+ 62%|██████▎   | 5/8 [01:27<00:54, 18.05s/it][A[A
+
+
+
+ 88%|████████▊ | 7/8 [01:34<00:15, 15.09s/it][A[A[A[A
+
+
+ 88%|████████▊ | 7/8 [01:35<00:13, 14.00s/it][A[A[A
+ 88%|████████▊ | 7/8 [01:37<00:15, 15.48s/it][A
+
+
+
+
+
+ 62%|██████▎   | 5/8 [01:39<01:03, 21.18s/it][A[A[A[A[A[A
+
+ 75%|███████▌  | 6/8 [01:45<00:36, 18.02s/it][A[A
+
+
+
+
+ 75%|███████▌  | 6/8 [01:48<00:42, 21.37s/it][A[A[A[A[A
+
+
+100%|██████████| 8/8 [01:49<00:00, 13.90s/it][A[A[A100%|██████████| 8/8 [01:49<00:00, 13.64s/it]
+Running experiments...:  17%|█▋        | 1/6 [01:49<09:05, 109.10s/it]
+
+
+
+100%|██████████| 8/8 [01:49<00:00, 15.22s/it][A[A[A[A100%|██████████| 8/8 [01:49<00:00, 13.69s/it]
+Running experiments...:  33%|███▎      | 2/6 [01:49<03:00, 45.17s/it] 
+100%|██████████| 8/8 [01:56<00:00, 16.59s/it][A100%|██████████| 8/8 [01:56<00:00, 14.50s/it]
+Running experiments...:  50%|█████     | 3/6 [01:56<01:22, 27.51s/it]
+
+
+
+
+
+ 75%|███████▌  | 6/8 [02:02<00:43, 21.66s/it][A[A[A[A[A[A
+
+
+
+
+ 88%|████████▊ | 7/8 [02:06<00:20, 20.29s/it][A[A[A[A[A
+
+ 88%|████████▊ | 7/8 [02:06<00:18, 18.93s/it][A[A
+
+
+
+
+
+ 88%|████████▊ | 7/8 [02:18<00:19, 19.96s/it][A[A[A[A[A[A
+
+
+
+
+100%|██████████| 8/8 [02:23<00:00, 19.20s/it][A[A[A[A[A100%|██████████| 8/8 [02:23<00:00, 17.88s/it]
+Running experiments...:  67%|██████▋   | 4/6 [02:23<00:54, 27.31s/it]
+
+100%|██████████| 8/8 [02:25<00:00, 19.18s/it][A[A100%|██████████| 8/8 [02:25<00:00, 18.24s/it]
+Running experiments...:  83%|████████▎ | 5/6 [02:25<00:18, 18.51s/it]
+
+
+
+
+
+100%|██████████| 8/8 [02:35<00:00, 18.88s/it][A[A[A[A[A[A100%|██████████| 8/8 [02:35<00:00, 19.40s/it]
+Running experiments...: 100%|██████████| 6/6 [02:35<00:00, 15.37s/it]Running experiments...: 100%|██████████| 6/6 [02:35<00:00, 25.87s/it]
+COST: 0.0956845
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=6>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=15>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+Saved: plots_5_l_c/data_control_articles_AP-control.txt.png
+Saved: plots_5_l_c/data_control_articles_BBC-control.txt.png
+Saved: plots_5_l_c/data_control_articles_CNN-control.txt.png
+Saved: plots_5_l_c/data_control_articles_FOX-control.txt.png
+Saved: plots_5_l_c/data_control_articles_NYPOST-control.txt.png
+Saved: plots_5_l_c/data_control_articles_NYT-control.txt.png
+Saved: plots_5_l_c/all_articles_combined.png
+Running experiments...:   0%|          | 0/6 [00:00<?, ?it/s]
+  0%|          | 0/8 [00:00<?, ?it/s][A
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A
+
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A[A
+
+
+ 12%|█▎        | 1/8 [00:10<01:14, 10.66s/it][A[A[A
+ 12%|█▎        | 1/8 [00:11<01:22, 11.73s/it][A
+
+
+
+
+ 12%|█▎        | 1/8 [00:14<01:42, 14.65s/it][A[A[A[A[A
+
+
+
+ 12%|█▎        | 1/8 [00:15<01:50, 15.82s/it][A[A[A[A
+
+
+
+
+
+ 12%|█▎        | 1/8 [00:16<01:54, 16.42s/it][A[A[A[A[A[A
+
+
+ 25%|██▌       | 2/8 [00:26<01:22, 13.74s/it][A[A[A
+
+ 12%|█▎        | 1/8 [00:27<03:12, 27.50s/it][A[A
+ 25%|██▌       | 2/8 [00:27<01:26, 14.37s/it][A
+
+
+
+
+ 25%|██▌       | 2/8 [00:33<01:42, 17.00s/it][A[A[A[A[A
+
+
+
+ 25%|██▌       | 2/8 [00:35<01:48, 18.01s/it][A[A[A[A
+
+
+
+
+
+ 25%|██▌       | 2/8 [00:37<01:55, 19.17s/it][A[A[A[A[A[A
+
+
+ 38%|███▊      | 3/8 [00:42<01:13, 14.62s/it][A[A[A
+
+ 25%|██▌       | 2/8 [00:45<02:12, 22.08s/it][A[A
+ 38%|███▊      | 3/8 [00:51<01:32, 18.47s/it][A
+
+
+
+
+ 38%|███▊      | 3/8 [00:52<01:30, 18.10s/it][A[A[A[A[A
+
+
+
+ 38%|███▊      | 3/8 [00:52<01:29, 17.80s/it][A[A[A[A
+
+
+ 50%|█████     | 4/8 [00:57<00:59, 14.91s/it][A[A[A
+
+
+
+
+
+ 38%|███▊      | 3/8 [01:03<01:51, 22.26s/it][A[A[A[A[A[A
+
+ 38%|███▊      | 3/8 [01:05<01:44, 20.89s/it][A[A
+ 50%|█████     | 4/8 [01:09<01:12, 18.20s/it][A
+
+
+ 62%|██████▎   | 5/8 [01:12<00:45, 15.03s/it][A[A[A
+
+
+
+ 50%|█████     | 4/8 [01:18<01:23, 20.94s/it][A[A[A[A
+
+
+
+
+ 50%|█████     | 4/8 [01:20<01:27, 21.80s/it][A[A[A[A[A
+ 62%|██████▎   | 5/8 [01:23<00:50, 16.71s/it][A
+
+
+
+
+
+ 50%|█████     | 4/8 [01:26<01:31, 22.76s/it][A[A[A[A[A[A
+
+ 50%|█████     | 4/8 [01:27<01:25, 21.32s/it][A[A
+
+
+
+ 62%|██████▎   | 5/8 [01:28<00:50, 16.91s/it][A[A[A[A
+
+
+ 75%|███████▌  | 6/8 [01:28<00:30, 15.29s/it][A[A[A
+ 75%|███████▌  | 6/8 [01:35<00:30, 15.30s/it][A
+
+
+
+
+ 62%|██████▎   | 5/8 [01:44<01:07, 22.61s/it][A[A[A[A[A
+
+
+ 88%|████████▊ | 7/8 [01:45<00:15, 15.65s/it][A[A[A
+
+
+
+ 75%|███████▌  | 6/8 [01:46<00:34, 17.26s/it][A[A[A[A
+
+ 62%|██████▎   | 5/8 [01:48<01:03, 21.17s/it][A[A
+
+
+
+
+
+ 62%|██████▎   | 5/8 [01:52<01:10, 23.60s/it][A[A[A[A[A[A
+ 88%|████████▊ | 7/8 [01:54<00:16, 16.39s/it][A
+
+
+100%|██████████| 8/8 [01:59<00:00, 15.44s/it][A[A[A100%|██████████| 8/8 [01:59<00:00, 15.00s/it]
+Running experiments...:  17%|█▋        | 1/6 [01:59<09:59, 119.99s/it]
+100%|██████████| 8/8 [02:08<00:00, 15.54s/it][A100%|██████████| 8/8 [02:08<00:00, 16.01s/it]
+Running experiments...:  33%|███▎      | 2/6 [02:08<03:36, 54.15s/it] 
+
+
+
+
+
+ 75%|███████▌  | 6/8 [02:12<00:44, 22.45s/it][A[A[A[A[A[A
+
+
+
+
+ 75%|███████▌  | 6/8 [02:12<00:49, 24.67s/it][A[A[A[A[A
+
+
+
+ 88%|████████▊ | 7/8 [02:13<00:20, 20.47s/it][A[A[A[A
+
+ 75%|███████▌  | 6/8 [02:14<00:45, 22.80s/it][A[A
+
+
+
+100%|██████████| 8/8 [02:28<00:00, 18.61s/it][A[A[A[A100%|██████████| 8/8 [02:28<00:00, 18.51s/it]
+Running experiments...:  50%|█████     | 3/6 [02:28<01:55, 38.57s/it]
+
+ 88%|████████▊ | 7/8 [02:30<00:20, 20.77s/it][A[A
+
+
+
+
+
+ 88%|████████▊ | 7/8 [02:32<00:21, 21.69s/it][A[A[A[A[A[A
+
+
+
+
+ 88%|████████▊ | 7/8 [02:37<00:24, 24.79s/it][A[A[A[A[A
+
+
+
+
+
+100%|██████████| 8/8 [02:50<00:00, 20.51s/it][A[A[A[A[A[A100%|██████████| 8/8 [02:50<00:00, 21.30s/it]
+Running experiments...:  67%|██████▋   | 4/6 [02:50<01:04, 32.16s/it]
+
+100%|██████████| 8/8 [02:54<00:00, 21.84s/it][A[A100%|██████████| 8/8 [02:54<00:00, 21.85s/it]
+Running experiments...:  83%|████████▎ | 5/6 [02:54<00:22, 22.15s/it]
+
+
+
+
+100%|██████████| 8/8 [03:06<00:00, 25.94s/it][A[A[A[A[A100%|██████████| 8/8 [03:06<00:00, 23.29s/it]
+Running experiments...: 100%|██████████| 6/6 [03:06<00:00, 18.53s/it]Running experiments...: 100%|██████████| 6/6 [03:06<00:00, 31.06s/it]
+COST: 0.40408374999999996
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=10>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+sys:1: ResourceWarning: unclosed <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 55710), raddr=('127.0.0.1', 8001)>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=11>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=17>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+Saved: plots_g_5_c/data_control_articles_AP-control.txt.png
+Saved: plots_g_5_c/data_control_articles_BBC-control.txt.png
+Saved: plots_g_5_c/data_control_articles_CNN-control.txt.png
+Saved: plots_g_5_c/data_control_articles_FOX-control.txt.png
+Saved: plots_g_5_c/data_control_articles_NYPOST-control.txt.png
+Saved: plots_g_5_c/data_control_articles_NYT-control.txt.png
+Saved: plots_g_5_c/all_articles_combined.png
+Running experiments...:   0%|          | 0/6 [00:00<?, ?it/s]
+  0%|          | 0/8 [00:00<?, ?it/s][A
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A
+
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A[A
+
+
+ 12%|█▎        | 1/8 [00:13<01:36, 13.78s/it][A[A[A
+
+
+
+
+ 12%|█▎        | 1/8 [00:14<01:44, 14.87s/it][A[A[A[A[A
+
+ 12%|█▎        | 1/8 [00:15<01:45, 15.11s/it][A[A
+ 12%|█▎        | 1/8 [00:16<01:52, 16.10s/it][A
+
+
+
+ 12%|█▎        | 1/8 [00:16<01:58, 16.99s/it][A[A[A[A
+
+
+
+
+
+ 12%|█▎        | 1/8 [00:19<02:13, 19.14s/it][A[A[A[A[A[A
+
+
+ 25%|██▌       | 2/8 [00:30<01:31, 15.25s/it][A[A[A
+
+
+
+ 25%|██▌       | 2/8 [00:34<01:43, 17.32s/it][A[A[A[A
+ 25%|██▌       | 2/8 [00:34<01:45, 17.63s/it][A
+
+
+
+
+ 25%|██▌       | 2/8 [00:36<01:53, 18.84s/it][A[A[A[A[A
+
+ 25%|██▌       | 2/8 [00:37<01:54, 19.11s/it][A[A
+
+
+
+
+
+ 25%|██▌       | 2/8 [00:40<02:03, 20.63s/it][A[A[A[A[A[A
+
+
+ 38%|███▊      | 3/8 [00:46<01:19, 15.95s/it][A[A[A
+
+
+
+ 38%|███▊      | 3/8 [00:54<01:31, 18.39s/it][A[A[A[A
+ 38%|███▊      | 3/8 [00:54<01:33, 18.78s/it][A
+
+
+
+
+ 38%|███▊      | 3/8 [00:58<01:41, 20.33s/it][A[A[A[A[A
+
+ 38%|███▊      | 3/8 [01:00<01:45, 21.03s/it][A[A
+
+
+ 50%|█████     | 4/8 [01:05<01:07, 16.85s/it][A[A[A
+
+
+
+
+
+ 38%|███▊      | 3/8 [01:06<01:55, 23.09s/it][A[A[A[A[A[A
+
+
+
+ 50%|█████     | 4/8 [01:13<01:14, 18.60s/it][A[A[A[A
+ 50%|█████     | 4/8 [01:17<01:20, 20.16s/it][A
+
+ 50%|█████     | 4/8 [01:21<01:24, 21.23s/it][A[A
+
+
+ 62%|██████▎   | 5/8 [01:22<00:51, 17.21s/it][A[A[A
+
+
+
+
+ 50%|█████     | 4/8 [01:25<01:31, 22.76s/it][A[A[A[A[A
+
+
+
+
+
+ 50%|█████     | 4/8 [01:31<01:35, 23.78s/it][A[A[A[A[A[A
+
+
+
+ 62%|██████▎   | 5/8 [01:33<00:57, 19.09s/it][A[A[A[A
+ 62%|██████▎   | 5/8 [01:38<01:01, 20.46s/it][A
+
+
+ 75%|███████▌  | 6/8 [01:38<00:33, 16.79s/it][A[A[A
+
+ 62%|██████▎   | 5/8 [01:47<01:07, 22.64s/it][A[A
+
+
+
+
+ 62%|██████▎   | 5/8 [01:49<01:09, 23.32s/it][A[A[A[A[A
+
+
+
+ 75%|███████▌  | 6/8 [01:50<00:37, 18.57s/it][A[A[A[A
+
+
+ 88%|████████▊ | 7/8 [01:52<00:15, 15.84s/it][A[A[A
+
+
+
+
+
+ 62%|██████▎   | 5/8 [01:57<01:13, 24.46s/it][A[A[A[A[A[A
+ 75%|███████▌  | 6/8 [01:58<00:40, 20.45s/it][A
+
+
+100%|██████████| 8/8 [02:07<00:00, 15.54s/it][A[A[A100%|██████████| 8/8 [02:07<00:00, 15.96s/it]
+Running experiments...:  17%|█▋        | 1/6 [02:07<10:38, 127.69s/it]
+
+
+
+ 88%|████████▊ | 7/8 [02:07<00:18, 18.15s/it][A[A[A[A
+
+
+
+
+ 75%|███████▌  | 6/8 [02:10<00:45, 22.67s/it][A[A[A[A[A
+
+ 75%|███████▌  | 6/8 [02:11<00:46, 23.19s/it][A[A
+ 88%|████████▊ | 7/8 [02:17<00:19, 19.89s/it][A
+
+
+
+
+
+ 75%|███████▌  | 6/8 [02:24<00:50, 25.37s/it][A[A[A[A[A[A
+
+
+
+100%|██████████| 8/8 [02:24<00:00, 17.76s/it][A[A[A[A100%|██████████| 8/8 [02:24<00:00, 18.11s/it]
+Running experiments...:  33%|███▎      | 2/6 [02:24<04:10, 62.68s/it] 
+
+
+
+
+ 88%|████████▊ | 7/8 [02:29<00:21, 21.28s/it][A[A[A[A[A
+100%|██████████| 8/8 [02:30<00:00, 17.80s/it][A100%|██████████| 8/8 [02:30<00:00, 18.84s/it]
+Running experiments...:  50%|█████     | 3/6 [02:30<01:50, 36.72s/it]
+
+ 88%|████████▊ | 7/8 [02:33<00:22, 22.94s/it][A[A
+
+
+
+
+
+ 88%|████████▊ | 7/8 [02:43<00:23, 23.14s/it][A[A[A[A[A[A
+
+
+
+
+100%|██████████| 8/8 [02:45<00:00, 19.58s/it][A[A[A[A[A100%|██████████| 8/8 [02:45<00:00, 20.64s/it]
+Running experiments...:  67%|██████▋   | 4/6 [02:45<00:55, 27.94s/it]
+
+100%|██████████| 8/8 [02:51<00:00, 21.46s/it][A[A100%|██████████| 8/8 [02:51<00:00, 21.50s/it]
+Running experiments...:  83%|████████▎ | 5/6 [02:51<00:20, 20.32s/it]
+
+
+
+
+
+100%|██████████| 8/8 [02:58<00:00, 20.69s/it][A[A[A[A[A[A100%|██████████| 8/8 [02:58<00:00, 22.31s/it]
+Running experiments...: 100%|██████████| 6/6 [02:58<00:00, 15.62s/it]Running experiments...: 100%|██████████| 6/6 [02:58<00:00, 29.75s/it]
+COST: 0.0
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=12>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=14>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+Saved: plots_g_g_c/data_control_articles_AP-control.txt.png
+Saved: plots_g_g_c/data_control_articles_BBC-control.txt.png
+Saved: plots_g_g_c/data_control_articles_CNN-control.txt.png
+Saved: plots_g_g_c/data_control_articles_FOX-control.txt.png
+Saved: plots_g_g_c/data_control_articles_NYPOST-control.txt.png
+Saved: plots_g_g_c/data_control_articles_NYT-control.txt.png
+Saved: plots_g_g_c/all_articles_combined.png
+Running experiments...:   0%|          | 0/6 [00:00<?, ?it/s]
+  0%|          | 0/8 [00:00<?, ?it/s][A
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A
+
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A[A
+
+ 12%|█▎        | 1/8 [00:08<01:01,  8.76s/it][A[A
+ 12%|█▎        | 1/8 [00:09<01:03,  9.07s/it][A
+
+
+ 12%|█▎        | 1/8 [00:09<01:06,  9.43s/it][A[A[A
+
+
+
+
+ 12%|█▎        | 1/8 [00:10<01:12, 10.36s/it][A[A[A[A[A
+
+
+
+ 12%|█▎        | 1/8 [00:11<01:17, 11.10s/it][A[A[A[A
+
+
+
+
+
+ 12%|█▎        | 1/8 [00:11<01:19, 11.36s/it][A[A[A[A[A[A
+
+
+ 25%|██▌       | 2/8 [00:20<01:03, 10.55s/it][A[A[A
+
+ 25%|██▌       | 2/8 [00:22<01:08, 11.46s/it][A[A
+ 25%|██▌       | 2/8 [00:23<01:14, 12.39s/it][A
+
+
+
+ 25%|██▌       | 2/8 [00:23<01:12, 12.16s/it][A[A[A[A
+
+
+
+
+
+ 25%|██▌       | 2/8 [00:24<01:14, 12.39s/it][A[A[A[A[A[A
+
+
+
+
+ 25%|██▌       | 2/8 [00:25<01:18, 13.02s/it][A[A[A[A[A
+
+
+ 38%|███▊      | 3/8 [00:32<00:56, 11.30s/it][A[A[A
+
+ 38%|███▊      | 3/8 [00:35<01:02, 12.49s/it][A[A
+
+
+
+ 38%|███▊      | 3/8 [00:38<01:07, 13.42s/it][A[A[A[A
+
+
+
+
+
+ 38%|███▊      | 3/8 [00:39<01:08, 13.60s/it][A[A[A[A[A[A
+
+
+
+
+ 38%|███▊      | 3/8 [00:40<01:09, 13.98s/it][A[A[A[A[A
+ 38%|███▊      | 3/8 [00:41<01:13, 14.68s/it][A
+
+
+ 50%|█████     | 4/8 [00:46<00:48, 12.01s/it][A[A[A
+
+ 50%|█████     | 4/8 [00:50<00:53, 13.48s/it][A[A
+
+
+
+ 50%|█████     | 4/8 [00:54<00:56, 14.18s/it][A[A[A[A
+
+
+
+
+
+ 50%|█████     | 4/8 [00:55<00:57, 14.35s/it][A[A[A[A[A[A
+
+
+
+
+ 50%|█████     | 4/8 [00:55<00:57, 14.32s/it][A[A[A[A[A
+ 50%|█████     | 4/8 [00:58<01:02, 15.67s/it][A
+
+
+ 62%|██████▎   | 5/8 [01:00<00:38, 12.73s/it][A[A[A
+
+ 62%|██████▎   | 5/8 [01:05<00:42, 14.05s/it][A[A
+
+
+
+
+ 62%|██████▎   | 5/8 [01:11<00:44, 14.90s/it][A[A[A[A[A
+
+
+
+ 62%|██████▎   | 5/8 [01:11<00:45, 15.18s/it][A[A[A[A
+
+
+
+
+
+ 62%|██████▎   | 5/8 [01:11<00:45, 15.16s/it][A[A[A[A[A[A
+ 62%|██████▎   | 5/8 [01:13<00:46, 15.49s/it][A
+
+
+ 75%|███████▌  | 6/8 [01:14<00:26, 13.35s/it][A[A[A
+
+ 75%|███████▌  | 6/8 [01:20<00:28, 14.38s/it][A[A
+
+
+
+ 75%|███████▌  | 6/8 [01:28<00:31, 15.74s/it][A[A[A[A
+
+
+ 88%|████████▊ | 7/8 [01:28<00:13, 13.44s/it][A[A[A
+
+
+
+
+
+ 75%|███████▌  | 6/8 [01:28<00:31, 15.67s/it][A[A[A[A[A[A
+
+
+
+
+ 75%|███████▌  | 6/8 [01:28<00:31, 15.83s/it][A[A[A[A[A
+ 75%|███████▌  | 6/8 [01:31<00:32, 16.40s/it][A
+
+ 88%|████████▊ | 7/8 [01:39<00:15, 15.65s/it][A[A
+
+
+100%|██████████| 8/8 [01:42<00:00, 13.69s/it][A[A[A100%|██████████| 8/8 [01:42<00:00, 12.81s/it]
+Running experiments...:  17%|█▋        | 1/6 [01:42<08:32, 102.46s/it]
+
+
+
+ 88%|████████▊ | 7/8 [01:44<00:15, 15.95s/it][A[A[A[A
+
+
+
+
+
+ 88%|████████▊ | 7/8 [01:45<00:16, 16.25s/it][A[A[A[A[A[A
+
+
+
+
+ 88%|████████▊ | 7/8 [01:47<00:16, 16.62s/it][A[A[A[A[A
+ 88%|████████▊ | 7/8 [01:48<00:16, 16.48s/it][A
+
+100%|██████████| 8/8 [01:55<00:00, 15.87s/it][A[A100%|██████████| 8/8 [01:55<00:00, 14.44s/it]
+Running experiments...:  33%|███▎      | 2/6 [01:55<03:19, 49.86s/it] 
+
+
+
+100%|██████████| 8/8 [01:59<00:00, 15.77s/it][A[A[A[A100%|██████████| 8/8 [01:59<00:00, 14.97s/it]
+Running experiments...:  50%|█████     | 3/6 [01:59<01:27, 29.06s/it]
+
+
+
+
+
+100%|██████████| 8/8 [02:02<00:00, 16.37s/it][A[A[A[A[A[A100%|██████████| 8/8 [02:02<00:00, 15.29s/it]
+Running experiments...:  67%|██████▋   | 4/6 [02:02<00:37, 18.58s/it]
+100%|██████████| 8/8 [02:03<00:00, 16.01s/it][A100%|██████████| 8/8 [02:03<00:00, 15.42s/it]
+Running experiments...:  83%|████████▎ | 5/6 [02:03<00:12, 12.26s/it]
+
+
+
+
+100%|██████████| 8/8 [02:03<00:00, 16.66s/it][A[A[A[A[A100%|██████████| 8/8 [02:03<00:00, 15.47s/it]
+Running experiments...: 100%|██████████| 6/6 [02:03<00:00,  8.23s/it]Running experiments...: 100%|██████████| 6/6 [02:03<00:00, 20.63s/it]
+COST: 0.0
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=31>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=9>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=33>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+sys:1: ResourceWarning: unclosed <socket.socket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 40550), raddr=('127.0.0.1', 8001)>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=21>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+sys:1: ResourceWarning: unclosed <socket.socket fd=22, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 40562), raddr=('127.0.0.1', 8001)>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=22>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+sys:1: ResourceWarning: unclosed <socket.socket fd=23, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 40564), raddr=('127.0.0.1', 8001)>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=23>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+sys:1: ResourceWarning: unclosed <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 37380), raddr=('127.0.0.1', 8000)>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=6>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+sys:1: ResourceWarning: unclosed <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 37382), raddr=('127.0.0.1', 8000)>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=7>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+Saved: plots_g_l_c/data_control_articles_AP-control.txt.png
+Saved: plots_g_l_c/data_control_articles_BBC-control.txt.png
+Saved: plots_g_l_c/data_control_articles_CNN-control.txt.png
+Saved: plots_g_l_c/data_control_articles_FOX-control.txt.png
+Saved: plots_g_l_c/data_control_articles_NYPOST-control.txt.png
+Saved: plots_g_l_c/data_control_articles_NYT-control.txt.png
+Saved: plots_g_l_c/all_articles_combined.png
+Running experiments...:   0%|          | 0/6 [00:00<?, ?it/s]
+  0%|          | 0/8 [00:00<?, ?it/s][A
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A
+
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A[A
+
+
+ 12%|█▎        | 1/8 [00:08<00:57,  8.25s/it][A[A[A
+
+
+
+ 12%|█▎        | 1/8 [00:09<01:04,  9.21s/it][A[A[A[A
+
+ 12%|█▎        | 1/8 [00:09<01:07,  9.58s/it][A[A
+ 12%|█▎        | 1/8 [00:10<01:11, 10.26s/it][A
+
+
+
+
+ 12%|█▎        | 1/8 [00:10<01:14, 10.68s/it][A[A[A[A[A
+
+
+
+
+
+ 12%|█▎        | 1/8 [00:11<01:17, 11.14s/it][A[A[A[A[A[A
+
+
+ 25%|██▌       | 2/8 [00:18<00:57,  9.64s/it][A[A[A
+
+
+
+ 25%|██▌       | 2/8 [00:21<01:07, 11.18s/it][A[A[A[A
+ 25%|██▌       | 2/8 [00:24<01:17, 12.88s/it][A
+
+ 25%|██▌       | 2/8 [00:25<01:19, 13.19s/it][A[A
+
+
+
+
+ 25%|██▌       | 2/8 [00:26<01:22, 13.72s/it][A[A[A[A[A
+
+
+
+
+
+ 25%|██▌       | 2/8 [00:26<01:23, 13.91s/it][A[A[A[A[A[A
+
+
+ 38%|███▊      | 3/8 [00:30<00:53, 10.72s/it][A[A[A
+
+
+
+
+ 38%|███▊      | 3/8 [00:38<01:05, 13.13s/it][A[A[A[A[A
+
+ 38%|███▊      | 3/8 [00:39<01:08, 13.69s/it][A[A
+
+
+
+ 38%|███▊      | 3/8 [00:41<01:14, 15.00s/it][A[A[A[A
+
+
+ 50%|█████     | 4/8 [00:42<00:44, 11.07s/it][A[A[A
+
+
+
+
+
+ 38%|███▊      | 3/8 [00:44<01:18, 15.66s/it][A[A[A[A[A[A
+ 38%|███▊      | 3/8 [00:45<01:21, 16.39s/it][A
+
+
+
+
+ 50%|█████     | 4/8 [00:51<00:51, 12.84s/it][A[A[A[A[A
+
+
+ 62%|██████▎   | 5/8 [00:53<00:33, 11.10s/it][A[A[A
+
+
+
+ 50%|█████     | 4/8 [00:53<00:56, 14.06s/it][A[A[A[A
+
+ 50%|█████     | 4/8 [00:55<00:58, 14.61s/it][A[A
+
+
+
+
+
+ 50%|█████     | 4/8 [01:02<01:06, 16.66s/it][A[A[A[A[A[A
+
+
+ 75%|███████▌  | 6/8 [01:05<00:22, 11.47s/it][A[A[A
+
+
+
+ 62%|██████▎   | 5/8 [01:06<00:40, 13.43s/it][A[A[A[A
+ 50%|█████     | 4/8 [01:06<01:13, 18.29s/it][A
+
+ 62%|██████▎   | 5/8 [01:09<00:42, 14.17s/it][A[A
+
+
+
+
+ 62%|██████▎   | 5/8 [01:10<00:45, 15.20s/it][A[A[A[A[A
+
+
+ 88%|████████▊ | 7/8 [01:18<00:11, 11.76s/it][A[A[A
+ 62%|██████▎   | 5/8 [01:18<00:48, 16.01s/it][A
+
+
+
+
+
+ 62%|██████▎   | 5/8 [01:20<00:50, 16.87s/it][A[A[A[A[A[A
+
+
+
+
+ 75%|███████▌  | 6/8 [01:21<00:27, 13.77s/it][A[A[A[A[A
+
+
+
+ 75%|███████▌  | 6/8 [01:22<00:28, 14.39s/it][A[A[A[A
+
+ 75%|███████▌  | 6/8 [01:23<00:28, 14.23s/it][A[A
+
+
+100%|██████████| 8/8 [01:31<00:00, 12.32s/it][A[A[A100%|██████████| 8/8 [01:31<00:00, 11.46s/it]
+Running experiments...:  17%|█▋        | 1/6 [01:31<07:38, 91.70s/it]
+ 75%|███████▌  | 6/8 [01:33<00:31, 15.59s/it][A
+
+
+
+
+
+ 75%|███████▌  | 6/8 [01:34<00:31, 15.85s/it][A[A[A[A[A[A
+
+
+
+ 88%|████████▊ | 7/8 [01:37<00:14, 14.69s/it][A[A[A[A
+
+ 88%|████████▊ | 7/8 [01:39<00:14, 14.86s/it][A[A
+
+
+
+
+ 88%|████████▊ | 7/8 [01:41<00:15, 15.83s/it][A[A[A[A[A
+ 88%|████████▊ | 7/8 [01:53<00:17, 17.04s/it][A
+
+
+
+100%|██████████| 8/8 [01:53<00:00, 15.05s/it][A[A[A[A100%|██████████| 8/8 [01:53<00:00, 14.20s/it]
+Running experiments...:  33%|███▎      | 2/6 [01:53<03:22, 50.66s/it]
+
+
+
+
+
+ 88%|████████▊ | 7/8 [01:55<00:17, 17.76s/it][A[A[A[A[A[A
+
+100%|██████████| 8/8 [01:56<00:00, 15.48s/it][A[A100%|██████████| 8/8 [01:56<00:00, 14.54s/it]
+Running experiments...:  50%|█████     | 3/6 [01:56<01:26, 28.75s/it]
+
+
+
+
+100%|██████████| 8/8 [01:58<00:00, 16.14s/it][A[A[A[A[A100%|██████████| 8/8 [01:58<00:00, 14.83s/it]
+Running experiments...:  67%|██████▋   | 4/6 [01:58<00:36, 18.31s/it]
+100%|██████████| 8/8 [02:06<00:00, 15.86s/it][A100%|██████████| 8/8 [02:06<00:00, 15.86s/it]
+Running experiments...:  83%|████████▎ | 5/6 [02:06<00:14, 14.67s/it]
+
+
+
+
+
+100%|██████████| 8/8 [02:20<00:00, 19.97s/it][A[A[A[A[A[A100%|██████████| 8/8 [02:20<00:00, 17.55s/it]
+Running experiments...: 100%|██████████| 6/6 [02:20<00:00, 14.31s/it]Running experiments...: 100%|██████████| 6/6 [02:20<00:00, 23.41s/it]
+COST: 0.4087815
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=30>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+sys:1: ResourceWarning: unclosed <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 53102), raddr=('127.0.0.1', 8000)>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=12>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+Saved: plots_l_5_c/data_control_articles_AP-control.txt.png
+Saved: plots_l_5_c/data_control_articles_BBC-control.txt.png
+Saved: plots_l_5_c/data_control_articles_CNN-control.txt.png
+Saved: plots_l_5_c/data_control_articles_FOX-control.txt.png
+Saved: plots_l_5_c/data_control_articles_NYPOST-control.txt.png
+Saved: plots_l_5_c/data_control_articles_NYT-control.txt.png
+Saved: plots_l_5_c/all_articles_combined.png
+Running experiments...:   0%|          | 0/6 [00:00<?, ?it/s]
+  0%|          | 0/8 [00:00<?, ?it/s][A
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A
+
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A[A
+
+
+
+
+ 12%|█▎        | 1/8 [00:12<01:29, 12.77s/it][A[A[A[A[A
+
+
+
+ 12%|█▎        | 1/8 [00:12<01:29, 12.84s/it][A[A[A[A
+
+ 12%|█▎        | 1/8 [00:13<01:32, 13.26s/it][A[A
+ 12%|█▎        | 1/8 [00:13<01:34, 13.51s/it][A
+
+
+ 12%|█▎        | 1/8 [00:14<01:43, 14.85s/it][A[A[A
+
+
+
+
+
+ 12%|█▎        | 1/8 [00:15<01:49, 15.63s/it][A[A[A[A[A[A
+
+
+
+
+ 25%|██▌       | 2/8 [00:28<01:27, 14.60s/it][A[A[A[A[A
+
+
+
+ 25%|██▌       | 2/8 [00:30<01:32, 15.49s/it][A[A[A[A
+ 25%|██▌       | 2/8 [00:30<01:33, 15.58s/it][A
+
+ 25%|██▌       | 2/8 [00:32<01:40, 16.71s/it][A[A
+
+
+ 25%|██▌       | 2/8 [00:36<01:53, 18.92s/it][A[A[A
+
+
+
+
+
+ 25%|██▌       | 2/8 [00:37<01:54, 19.07s/it][A[A[A[A[A[A
+
+
+
+
+ 38%|███▊      | 3/8 [00:44<01:16, 15.25s/it][A[A[A[A[A
+
+
+
+ 38%|███▊      | 3/8 [00:47<01:22, 16.42s/it][A[A[A[A
+ 38%|███▊      | 3/8 [00:49<01:24, 16.90s/it][A
+
+ 38%|███▊      | 3/8 [00:51<01:29, 17.91s/it][A[A
+
+
+ 38%|███▊      | 3/8 [00:56<01:36, 19.24s/it][A[A[A
+
+
+
+
+
+ 38%|███▊      | 3/8 [00:58<01:40, 20.13s/it][A[A[A[A[A[A
+
+
+
+
+ 50%|█████     | 4/8 [01:00<01:02, 15.61s/it][A[A[A[A[A
+
+
+
+ 50%|█████     | 4/8 [01:06<01:08, 17.19s/it][A[A[A[A
+ 50%|█████     | 4/8 [01:09<01:13, 18.29s/it][A
+
+ 50%|█████     | 4/8 [01:10<01:13, 18.44s/it][A[A
+
+
+ 50%|█████     | 4/8 [01:14<01:14, 18.68s/it][A[A[A
+
+
+
+
+
+ 50%|█████     | 4/8 [01:19<01:21, 20.37s/it][A[A[A[A[A[A
+
+
+
+
+ 62%|██████▎   | 5/8 [01:20<00:50, 16.92s/it][A[A[A[A[A
+
+
+
+ 62%|██████▎   | 5/8 [01:22<00:50, 16.94s/it][A[A[A[A
+ 62%|██████▎   | 5/8 [01:29<00:56, 18.88s/it][A
+
+ 62%|██████▎   | 5/8 [01:31<00:57, 19.31s/it][A[A
+
+
+ 62%|██████▎   | 5/8 [01:33<00:56, 18.78s/it][A[A[A
+
+
+
+
+
+ 62%|██████▎   | 5/8 [01:39<01:00, 20.28s/it][A[A[A[A[A[A
+
+
+
+ 75%|███████▌  | 6/8 [01:39<00:34, 17.09s/it][A[A[A[A
+
+
+
+
+ 75%|███████▌  | 6/8 [01:40<00:36, 18.15s/it][A[A[A[A[A
+ 75%|███████▌  | 6/8 [01:48<00:38, 19.12s/it][A
+
+ 75%|███████▌  | 6/8 [01:52<00:39, 19.64s/it][A[A
+
+
+ 75%|███████▌  | 6/8 [01:53<00:38, 19.31s/it][A[A[A
+
+
+
+ 88%|████████▊ | 7/8 [01:56<00:17, 17.02s/it][A[A[A[A
+
+
+
+
+
+ 75%|███████▌  | 6/8 [02:02<00:42, 21.21s/it][A[A[A[A[A[A
+
+
+
+
+ 88%|████████▊ | 7/8 [02:03<00:19, 19.59s/it][A[A[A[A[A
+ 88%|████████▊ | 7/8 [02:07<00:19, 19.09s/it][A
+
+ 88%|████████▊ | 7/8 [02:11<00:19, 19.66s/it][A[A
+
+
+ 88%|████████▊ | 7/8 [02:12<00:19, 19.38s/it][A[A[A
+
+
+
+100%|██████████| 8/8 [02:13<00:00, 16.90s/it][A[A[A[A100%|██████████| 8/8 [02:13<00:00, 16.69s/it]
+Running experiments...:  17%|█▋        | 1/6 [02:13<11:07, 133.50s/it]
+
+
+
+
+
+ 88%|████████▊ | 7/8 [02:23<00:21, 21.15s/it][A[A[A[A[A[A
+
+
+
+
+100%|██████████| 8/8 [02:24<00:00, 20.07s/it][A[A[A[A[A100%|██████████| 8/8 [02:24<00:00, 18.03s/it]
+Running experiments...:  33%|███▎      | 2/6 [02:24<04:05, 61.31s/it] 
+100%|██████████| 8/8 [02:25<00:00, 18.58s/it][A100%|██████████| 8/8 [02:25<00:00, 18.18s/it]
+Running experiments...:  50%|█████     | 3/6 [02:25<01:41, 33.86s/it]
+
+100%|██████████| 8/8 [02:31<00:00, 19.55s/it][A[A100%|██████████| 8/8 [02:31<00:00, 18.89s/it]
+Running experiments...:  67%|██████▋   | 4/6 [02:31<00:45, 22.73s/it]
+
+
+100%|██████████| 8/8 [02:31<00:00, 19.18s/it][A[A[A100%|██████████| 8/8 [02:31<00:00, 18.96s/it]
+Running experiments...:  83%|████████▎ | 5/6 [02:31<00:14, 14.72s/it]
+
+
+
+
+
+100%|██████████| 8/8 [02:40<00:00, 19.98s/it][A[A[A[A[A[A100%|██████████| 8/8 [02:40<00:00, 20.11s/it]
+Running experiments...: 100%|██████████| 6/6 [02:40<00:00, 12.86s/it]Running experiments...: 100%|██████████| 6/6 [02:40<00:00, 26.82s/it]
+COST: 0.0
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=6>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+sys:1: ResourceWarning: unclosed <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 58480), raddr=('127.0.0.1', 8000)>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=7>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+Saved: plots_l_g_c/data_control_articles_AP-control.txt.png
+Saved: plots_l_g_c/data_control_articles_BBC-control.txt.png
+Saved: plots_l_g_c/data_control_articles_CNN-control.txt.png
+Saved: plots_l_g_c/data_control_articles_FOX-control.txt.png
+Saved: plots_l_g_c/data_control_articles_NYPOST-control.txt.png
+Saved: plots_l_g_c/data_control_articles_NYT-control.txt.png
+Saved: plots_l_g_c/all_articles_combined.png
+Running experiments...:   0%|          | 0/6 [00:00<?, ?it/s]
+  0%|          | 0/8 [00:00<?, ?it/s][A
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A
+
+
+
+
+
+  0%|          | 0/8 [00:00<?, ?it/s][A[A[A[A[A[A
+ 12%|█▎        | 1/8 [00:06<00:48,  6.95s/it][A
+
+
+
+
+ 12%|█▎        | 1/8 [00:07<00:49,  7.14s/it][A[A[A[A[A
+
+
+
+
+
+ 12%|█▎        | 1/8 [00:07<00:52,  7.47s/it][A[A[A[A[A[A
+
+
+ 12%|█▎        | 1/8 [00:07<00:52,  7.52s/it][A[A[A
+
+ 12%|█▎        | 1/8 [00:08<00:59,  8.46s/it][A[A
+
+
+
+ 12%|█▎        | 1/8 [00:08<01:01,  8.72s/it][A[A[A[A
+
+
+
+
+ 25%|██▌       | 2/8 [00:18<00:57,  9.50s/it][A[A[A[A[A
+ 25%|██▌       | 2/8 [00:18<00:58,  9.77s/it][A
+
+
+
+
+
+ 25%|██▌       | 2/8 [00:19<01:01, 10.32s/it][A[A[A[A[A[A
+
+
+ 25%|██▌       | 2/8 [00:20<01:03, 10.50s/it][A[A[A
+
+ 25%|██▌       | 2/8 [00:21<01:05, 10.97s/it][A[A
+
+
+
+ 25%|██▌       | 2/8 [00:22<01:09, 11.64s/it][A[A[A[A
+ 38%|███▊      | 3/8 [00:31<00:55, 11.11s/it][A
+
+
+
+
+ 38%|███▊      | 3/8 [00:32<00:57, 11.51s/it][A[A[A[A[A
+
+
+ 38%|███▊      | 3/8 [00:33<00:59, 11.96s/it][A[A[A
+
+ 38%|███▊      | 3/8 [00:34<00:59, 11.97s/it][A[A
+
+
+
+
+
+ 38%|███▊      | 3/8 [00:35<01:03, 12.70s/it][A[A[A[A[A[A
+
+
+
+ 38%|███▊      | 3/8 [00:38<01:08, 13.66s/it][A[A[A[A
+ 50%|█████     | 4/8 [00:45<00:49, 12.27s/it][A
+
+
+
+
+ 50%|█████     | 4/8 [00:48<00:52, 13.24s/it][A[A[A[A[A
+
+
+ 50%|█████     | 4/8 [00:48<00:52, 13.08s/it][A[A[A
+
+ 50%|█████     | 4/8 [00:48<00:51, 12.89s/it][A[A
+
+
+
+
+
+ 50%|█████     | 4/8 [00:50<00:55, 13.87s/it][A[A[A[A[A[A
+
+
+
+ 50%|█████     | 4/8 [00:54<00:58, 14.73s/it][A[A[A[A
+ 62%|██████▎   | 5/8 [00:59<00:38, 12.75s/it][A
+
+
+
+
+ 62%|██████▎   | 5/8 [01:03<00:41, 13.99s/it][A[A[A[A[A
+
+ 62%|██████▎   | 5/8 [01:04<00:41, 13.84s/it][A[A
+
+
+ 62%|██████▎   | 5/8 [01:05<00:42, 14.33s/it][A[A[A
+
+
+
+
+
+ 62%|██████▎   | 5/8 [01:07<00:44, 14.93s/it][A[A[A[A[A[A
+
+
+
+ 62%|██████▎   | 5/8 [01:11<00:46, 15.40s/it][A[A[A[A
+ 75%|███████▌  | 6/8 [01:14<00:27, 13.52s/it][A
+
+
+
+
+ 75%|███████▌  | 6/8 [01:18<00:29, 14.53s/it][A[A[A[A[A
+
+ 75%|███████▌  | 6/8 [01:19<00:28, 14.40s/it][A[A
+
+
+ 75%|███████▌  | 6/8 [01:24<00:32, 16.19s/it][A[A[A
+
+
+
+
+
+ 75%|███████▌  | 6/8 [01:25<00:31, 15.79s/it][A[A[A[A[A[A
+
+
+
+ 75%|███████▌  | 6/8 [01:29<00:32, 16.30s/it][A[A[A[A
+ 88%|████████▊ | 7/8 [01:29<00:14, 14.24s/it][A
+
+
+
+
+ 88%|████████▊ | 7/8 [01:33<00:14, 14.50s/it][A[A[A[A[A
+
+ 88%|████████▊ | 7/8 [01:34<00:14, 14.68s/it][A[A
+
+
+ 88%|████████▊ | 7/8 [01:42<00:16, 16.78s/it][A[A[A
+
+
+
+
+
+ 88%|████████▊ | 7/8 [01:44<00:16, 16.91s/it][A[A[A[A[A[A
+100%|██████████| 8/8 [01:46<00:00, 14.98s/it][A100%|██████████| 8/8 [01:46<00:00, 13.29s/it]
+Running experiments...:  17%|█▋        | 1/6 [01:46<08:51, 106.36s/it]
+
+
+
+
+100%|██████████| 8/8 [01:47<00:00, 14.30s/it][A[A[A[A[A100%|██████████| 8/8 [01:47<00:00, 13.41s/it]
+Running experiments...:  33%|███▎      | 2/6 [01:47<02:57, 44.35s/it] 
+
+
+
+ 88%|████████▊ | 7/8 [01:48<00:17, 17.24s/it][A[A[A[A
+
+100%|██████████| 8/8 [01:49<00:00, 14.53s/it][A[A100%|██████████| 8/8 [01:49<00:00, 13.64s/it]
+Running experiments...:  50%|█████     | 3/6 [01:49<01:14, 24.93s/it]
+
+
+100%|██████████| 8/8 [01:58<00:00, 16.35s/it][A[A[A100%|██████████| 8/8 [01:58<00:00, 14.80s/it]
+Running experiments...:  67%|██████▋   | 4/6 [01:58<00:37, 18.75s/it]
+
+
+
+
+
+100%|██████████| 8/8 [01:59<00:00, 16.17s/it][A[A[A[A[A[A100%|██████████| 8/8 [01:59<00:00, 14.88s/it]
+Running experiments...:  83%|████████▎ | 5/6 [01:59<00:12, 12.24s/it]
+
+
+
+100%|██████████| 8/8 [02:01<00:00, 15.98s/it][A[A[A[A100%|██████████| 8/8 [02:01<00:00, 15.24s/it]
+Running experiments...: 100%|██████████| 6/6 [02:01<00:00,  9.05s/it]Running experiments...: 100%|██████████| 6/6 [02:01<00:00, 20.32s/it]
+COST: 0.0
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=18>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=17>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=36>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+sys:1: ResourceWarning: unclosed <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 33092), raddr=('127.0.0.1', 8000)>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=6>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/opt/conda/lib/python3.10/asyncio/selector_events.py:710: ResourceWarning: unclosed transport <_SelectorSocketTransport fd=19>
+  _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+Saved: plots_l_l_c/data_control_articles_AP-control.txt.png
+Saved: plots_l_l_c/data_control_articles_BBC-control.txt.png
+Saved: plots_l_l_c/data_control_articles_CNN-control.txt.png
+Saved: plots_l_l_c/data_control_articles_FOX-control.txt.png
+Saved: plots_l_l_c/data_control_articles_NYPOST-control.txt.png
+Saved: plots_l_l_c/data_control_articles_NYT-control.txt.png
+Saved: plots_l_l_c/all_articles_combined.png
