@@ -16,4 +16,8 @@ def disp(f):
     return sum(disps) / len(disps)
 
 disps = {f: disp(f) for f in files}
-
+print(disps)
+control_disps = [disp(f) for f in files if "c" in f]
+bias_disps = [disp(f) for f in files if "c" not in f]
+print(sum(control_disps) / len(control_disps))
+print(sum(bias_disps) / len(bias_disps))
